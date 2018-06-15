@@ -1,0 +1,5 @@
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\obj\Debug\xtremsoft.webmethod.csprojResolveAssemblyReference.cache
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\bin\Debug\xtremsoft.webmethod.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\bin\Debug\xtremsoft.webmethod.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\obj\Debug\xtremsoft.webmethod.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\obj\Debug\xtremsoft.webmethod.pdb

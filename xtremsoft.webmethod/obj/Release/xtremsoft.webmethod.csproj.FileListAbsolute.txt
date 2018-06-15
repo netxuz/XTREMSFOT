@@ -1,0 +1,5 @@
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\bin\Release\xtremsoft.webmethod.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\bin\Release\xtremsoft.webmethod.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\obj\Release\xtremsoft.webmethod.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\obj\Release\xtremsoft.webmethod.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft.webmethod\obj\Release\xtremsoft.webmethod.csprojResolveAssemblyReference.cache

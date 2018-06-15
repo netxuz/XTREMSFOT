@@ -1,0 +1,743 @@
+﻿@font-face {
+  font-family: segoeui;
+  src: url(/fonts/SEGOEUI.TTF);
+}
+
+body {
+  margin: 0px !important;
+  font-family: segoeui;
+}
+
+.banner01 {
+  background-image: url('/images/banner1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  height: 100%;
+  min-height: 800px;
+}
+
+.banner02 {
+  background-position: bottom;
+  background-attachment: scroll;
+  background-image: url("/images/banner2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  height: 100%;
+  min-height: 500px;
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.banner03 {
+  background-position: center;
+  background-attachment: scroll;
+  background-image: url("/images/banner3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  height: 100%;
+  min-height: 500px;
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.banner04 {
+  background-position: bottom;
+  background-attachment: scroll;
+  background-image: url("/images/banner4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  height: 100%;
+  min-height: 250px;
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.banner05 {
+  background-image: url("/images/banner05.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  height: 100%;
+  min-height: 200px;
+}
+
+.bannerservicios {
+  background: #fafafa;
+  height: 100%;
+  min-height: 500px;
+}
+
+
+.modal-content .close {
+  position: absolute;
+  right: 15px;
+}
+
+.navbar {
+  box-shadow: none !important;
+}
+
+.top-nav-collapse {
+  background: rgba(0,0,0,0.7);
+  box-shadow: 0 4px 5px -3px #666;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+.blqsup_producto {
+  background-color: #2D2D30;
+  height: 100%;
+  min-height: 100px;
+}
+
+#logomsazure, #logovs, #lgosql {
+  margin: 0px auto;
+  padding-top: 30px;
+  vertical-align: middle;
+}
+
+
+.labeltitle {
+  font-size: 75px;
+  color: #fff;
+  text-shadow: 0px 2px 3px #000;
+}
+
+.divtableblack {
+  display: table;
+  height: 150px;
+}
+
+.labeltitleblack {
+  font-size: 35px;
+  text-shadow: 0px 2px 3px #fff;
+}
+
+.labeldatablack {
+  font-size: 25px;
+  color: #000;
+  text-shadow: 0px 2px 3px #fff;
+}
+
+.labeltitlewhite {
+  font-size: 35px;
+  color: #fff;
+  text-shadow: 0px 2px 3px #000;
+}
+
+.labeldatawhite {
+  font-size: 25px;
+  color: #fff;
+  text-shadow: 0px 2px 3px #000;
+}
+
+.bloque {
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  min-height: 400px;
+}
+
+.divtableboque {
+  display: table;
+  height: 100px;
+}
+
+.labeltitlebloque {
+  font-size: 35px;
+  color: #000;
+  text-shadow: 0px 2px 3px #fff;
+}
+
+.labeldatabloque {
+  font-size: 25px;
+  color: #000;
+  text-shadow: 0px 1px 2px #fff;
+}
+
+.divbloque4 {
+  display: table;
+  height: 150px;
+}
+
+.lbltitlebloque4 {
+  font-size: 35px;
+  color: #fff;
+  text-shadow: 0px 2px 3px #000;
+}
+
+.lbltilesubloq4 {
+  font-size: 25px;
+}
+
+.lbldatabloque4 {
+  font-size: 25px;
+  vertical-align: middle;
+  color: #fff;
+  text-shadow: 0px 2px 3px #000;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+.bloque_producto {
+  background-color: #2D2D30;
+  width: 100%;
+  height: 90px;
+}
+
+.contact-info-box {
+  font-size: 15px;
+  margin: 0 0 14px 68px;
+  padding-left: 0px;
+}
+
+  .contact-info-box h3 {
+    font-size: 15px;
+    font-weight: 400;
+    float: left;
+    width: 102px;
+    margin-right: 12px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+    text-transform: uppercase;
+  }
+
+.btn-contactanos {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/*==================  Inline List  ======================*/
+.inline-list li {
+  display: inline-block;
+  position: relative;
+}
+
+  .inline-list li a {
+    color: #fff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 53px;
+    height: 53px;
+    display: block;
+    border: 1px solid #383737;
+    overflow: hidden;
+    background: #383737;
+    text-align: center;
+  }
+
+    .inline-list li a:after {
+      content: "";
+      background: #ffbb33;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      right: 50%;
+      bottom: 50%;
+      -moz-transition: 0.3s;
+      -webkit-transition: 0.3s;
+      -o-transition: 0.3s;
+      transition: 0.3s;
+      z-index: 1;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
+    }
+
+    .inline-list li a:before {
+      position: absolute;
+      font-size: 30px;
+      line-height: 53px;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 2;
+    }
+
+    .inline-list li a:hover {
+      border: none;
+    }
+
+      .inline-list li a:hover:after {
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+      }
+#btnEnviarMsn {
+  background:#e65100!important;
+  padding:0px;
+  text-transform:uppercase!important;
+}
+
+@media screen and (max-width: 450px) {
+  .banner01 {
+    background-position: bottom;
+    background-image: url('/images/banner1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 736px;
+  }
+
+  .banner02 {
+    background-position: bottom;
+    background-attachment: scroll;
+    background-image: url("/images/banner2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 500px;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .banner03 {
+    background-position: center;
+    background-attachment: scroll;
+    background-image: url("/images/banner3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 500px;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .banner04 {
+    background-position: bottom;
+    background-attachment: scroll;
+    background-image: url("/images/banner4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 300px;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .banner05 {
+    background-image: url("/images/banner05.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 200px;
+  }
+
+  .bannerservicios {
+    background: #fafafa;
+    height: 100%;
+    min-height: 500px;
+  }
+
+
+  .modal-content .close {
+    position: absolute;
+    right: 15px;
+  }
+
+  .navbar {
+    box-shadow: none !important;
+  }
+
+  .top-nav-collapse {
+    background: rgba(0,0,0,0.7);
+    box-shadow: 0 4px 5px -3px #666;
+  }
+
+  .navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+  }
+
+  .blqsup_producto {
+    background-color: #2D2D30;
+    height: 100%;
+    min-height: 100px;
+  }
+
+  #logomsazure, #logovs, #lgosql {
+    margin: 0px auto;
+    padding-top: 30px;
+    vertical-align: middle;
+    width:40%;
+  }
+
+
+  .labeltitle {
+    font-size: 35px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+  }
+
+  .divtableblack {
+    display: table;
+    height: 150px;
+  }
+
+  .labeltitleblack {
+    font-size: 25px;
+    text-shadow: 0px 2px 3px #fff;
+  }
+
+  .labeldatablack {
+    font-size: 20px;
+    color: #000;
+    text-shadow: 0px 2px 3px #fff;
+  }
+
+  .labeltitlewhite {
+    font-size: 25px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+  }
+
+  .labeldatawhite {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+    justify-content:center;
+  }
+
+  .bloque {
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    min-height: 400px;
+  }
+
+  .divtableboque {
+    display: table;
+    height: 100px;
+  }
+
+  .labeltitlebloque {
+    font-size: 35px;
+    color: #000;
+    text-shadow: 0px 2px 3px #fff;
+  }
+
+  .labeldatabloque {
+    font-size: 25px;
+    color: #000;
+    text-shadow: 0px 1px 2px #fff;
+  }
+
+  .divbloque4 {
+    display: table;
+    height: 150px;
+  }
+
+  .lbltitlebloque4 {
+    font-size: 35px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+  }
+
+  .lbltilesubloq4 {
+    font-size: 25px;
+  }
+
+  .lbldatabloque4 {
+    font-size: 25px;
+    vertical-align: middle;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+
+  .bloque_producto {
+    background-color: #2D2D30;
+    width: 100%;
+    height: 90px;
+  }
+
+  .contact-info-box {
+    font-size: 15px;
+    margin: 0 0 14px 68px;
+    padding-left: 0px;
+  }
+
+    .contact-info-box h3 {
+      font-size: 15px;
+      font-weight: 400;
+      float: left;
+      width: 102px;
+      margin-right: 12px;
+      color: #fff;
+      text-shadow: 0px 2px 3px #000;
+      text-transform: uppercase;
+    }
+
+  .btn-contactanos {
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  .text-right {
+    text-align:center!important;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .banner01 {
+    background-position: bottom;
+    background-image: url('/images/banner1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 640px;
+  }
+
+  .banner02 {
+    background-position: bottom;
+    background-attachment: scroll;
+    background-image: url("/images/banner2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 450px;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .banner03 {
+    background-position: center;
+    background-attachment: scroll;
+    background-image: url("/images/banner3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 450px;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .banner04 {
+    background-position: bottom;
+    background-attachment: scroll;
+    background-image: url("/images/banner4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 350px;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .banner05 {
+    background-image: url("/images/banner05.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    height: 100%;
+    min-height: 200px;
+  }
+
+  .bannerservicios {
+    background: #fafafa;
+    height: 100%;
+    min-height: 500px;
+  }
+
+
+  .modal-content .close {
+    position: absolute;
+    right: 15px;
+  }
+
+  .navbar {
+    box-shadow: none !important;
+  }
+
+  .top-nav-collapse {
+    background: rgba(0,0,0,0.7);
+    box-shadow: 0 4px 5px -3px #666;
+  }
+
+  .navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+  }
+
+  .blqsup_producto {
+    background-color: #2D2D30;
+    height: 100%;
+    min-height: 100px;
+  }
+
+  #logomsazure, #logovs, #lgosql {
+    margin: 0px auto;
+    padding-top: 30px;
+    vertical-align: middle;
+    width:40%;
+  }
+
+
+  .labeltitle {
+    font-size: 35px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+  }
+
+  .divtableblack {
+    display: table;
+    height: 150px;
+  }
+
+  .labeltitleblack {
+    font-size: 25px;
+    text-shadow: 0px 2px 3px #fff;
+  }
+
+  .labeldatablack {
+    font-size: 20px;
+    color: #000;
+    text-shadow: 0px 2px 3px #fff;
+  }
+
+  .labeltitlewhite {
+    font-size: 25px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+  }
+
+  .labeldatawhite {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+    justify-content:center;
+  }
+
+  .bloque {
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    min-height: 400px;
+  }
+
+  .divtableboque {
+    display: table;
+    height: 100px;
+  }
+
+  .labeltitlebloque {
+    font-size: 35px;
+    color: #000;
+    text-shadow: 0px 2px 3px #fff;
+  }
+
+  .labeldatabloque {
+    font-size: 25px;
+    color: #000;
+    text-shadow: 0px 1px 2px #fff;
+  }
+
+  .divbloque4 {
+    display: table;
+    height: 150px;
+  }
+
+  .lbltitlebloque4 {
+    font-size: 35px;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+  }
+
+  .lbltilesubloq4 {
+    font-size: 25px;
+  }
+
+  .lbldatabloque4 {
+    font-size: 25px;
+    vertical-align: middle;
+    color: #fff;
+    text-shadow: 0px 2px 3px #000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+
+  .bloque_producto {
+    background-color: #2D2D30;
+    width: 100%;
+    height: 90px;
+  }
+
+  .contact-info-box {
+    font-size: 15px;
+    margin: 0 0 14px 0px;
+    padding-left: 0px;
+    width: 500px;
+  }
+
+    .contact-info-box h3 {
+      font-size: 15px;
+      font-weight: 400;
+      float: left;
+      width: 102px;
+      margin-right: 12px;
+      color: #fff;
+      text-shadow: 0px 2px 3px #000;
+      text-transform: uppercase;
+    }
+
+  .btn-contactanos {
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+}

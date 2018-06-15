@@ -1,0 +1,13 @@
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\xtremsoft.dll.config
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\xtremsoft.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\xtremsoft.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\obj\Debug\xtremsoft.csprojResolveAssemblyReference.cache
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\obj\Debug\xtremsoft.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\obj\Debug\xtremsoft.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\xtremsoft.webmethod.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\xtremsoft.webmethod.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\Newtonsoft.Json.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\SendGrid.dll
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\Newtonsoft.Json.xml
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\SendGrid.pdb
+C:\Proyectos\XTREMSOFT\Sitio\xtremsoft\xtremsoft\bin\SendGrid.xml
